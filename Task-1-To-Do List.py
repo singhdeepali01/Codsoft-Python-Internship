@@ -72,7 +72,7 @@ delete_button = Button(
 )
 delete_button.pack(pady=10)
 
-# CLear button
+# Clear button
 clear_button = Button(
     window,
     text="Clear All ",
