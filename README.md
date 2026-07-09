@@ -90,6 +90,23 @@ During this internship, I improved my skills in:
 
 ---
 
+## 📸 Project Screenshots
+
+### ✅ Task 1 - To-Do List
+![To-Do List](Screenshots/todo-list.png)
+
+### 🧮 Task 2 - Calculator
+![Calculator](Screenshots/calculator.png)
+
+### 🔐 Task 3 - Password Generator
+![Password Generator](Screenshots/password-generator.png)
+
+### ✂️ Task 4 - Rock Paper Scissors
+![Rock Paper Scissors](Screenshots/rock-paper-scissors.png)
+
+### 📒 Task 5 - Contact Book
+![Contact Book](Screenshots/contact-book.png)
+
 # 👩‍💻 Author
 
 **Deepali Singh**
